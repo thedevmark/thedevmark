@@ -20,7 +20,8 @@ I document the harder problems in **[engineering-notes](https://github.com/thede
 
 - [Building 3D objects for the web](https://github.com/thedeutschmark/engineering-notes/tree/main/unified-webgl-scene) — Procedural models, PS1 vertex shaders, the orientation bug that cost me hours, and unifying two renderers into one canvas
 - [Multi-signal collab detection](https://github.com/thedeutschmark/engineering-notes/tree/main/hybrid-collab-detection) — 4-tier confidence hierarchy for detecting Twitch collaborations from VOD titles, stream overlap, and event data
-- [How I built P.A.T.H.O.S.](https://github.com/thedeutschmark/engineering-notes/tree/main/resume-optimization) — Deterministic ATS scoring, voice-preserving AI rewriting, ghost job detection, and the inbound email sync pipeline
+- [How I built P.A.T.H.O.S.](https://github.com/thedeutschmark/engineering-notes/tree/main/resume-optimization) — Deterministic ATS scoring, voice-preserving AI rewriting, ghost job detection, and the AI arms race in hiring
+- [Inbound email sync](https://github.com/thedeutschmark/engineering-notes/tree/main/inbound-email-sync) — Auto-detecting recruiter responses from forwarded emails with Guardian confidence scoring and hard guardrails
 
 ## Stack
 
