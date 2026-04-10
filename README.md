@@ -14,6 +14,8 @@ App developer, streamer, photographer. Building tools that solve problems I ran 
 
 **[DM Toolkit](https://github.com/thedeutschmark/toolkit)** — Streaming dashboard with music controls, OBS overlays, clip playback, and widget configuration. Authenticates through a shared Twitch identity across subdomains.
 
+**[Chat Bot](https://github.com/thedeutschmark/persistence_bot)** — AI chat companion for Twitch with persistent memory. Compresses each stream session into a local summary so the bot remembers what happened last time. Runs in Streamer.bot with your own API key.
+
 ## Technical writing
 
 I document the harder problems in **[engineering-notes](https://github.com/thedeutschmark/engineering-notes)**:
@@ -23,6 +25,7 @@ I document the harder problems in **[engineering-notes](https://github.com/thede
 - [How I built P.A.T.H.O.S.](https://github.com/thedeutschmark/engineering-notes/tree/main/how-i-built-pathos) — Deterministic ATS scoring, voice-preserving AI rewriting, ghost job detection, and the AI arms race in hiring
 - [Email sync](https://github.com/thedeutschmark/engineering-notes/tree/main/email-sync) — Auto-detecting recruiter responses from forwarded emails with Guardian confidence scoring and hard guardrails
 - [ML prediction](https://github.com/thedeutschmark/engineering-notes/tree/main/ml-prediction) — Logistic regression from scratch in JS, 30-feature spec, Platt scaling, consent-gated training with k-anonymity
+- [Chat bot memory](https://github.com/thedeutschmark/engineering-notes/tree/main/chat-bot-memory) — Persistent memory for a Twitch bot without storing chat logs — session compression, per-user lore, local-first storage
 
 ## Stack
 
