@@ -22,6 +22,7 @@ I document the harder problems in **[engineering-notes](https://github.com/thede
 - [Multi-signal collab detection](https://github.com/thedeutschmark/engineering-notes/tree/main/hybrid-collab-detection) — 4-tier confidence hierarchy for detecting Twitch collaborations from VOD titles, stream overlap, and event data
 - [How I built P.A.T.H.O.S.](https://github.com/thedeutschmark/engineering-notes/tree/main/resume-optimization) — Deterministic ATS scoring, voice-preserving AI rewriting, ghost job detection, and the AI arms race in hiring
 - [Inbound email sync](https://github.com/thedeutschmark/engineering-notes/tree/main/inbound-email-sync) — Auto-detecting recruiter responses from forwarded emails with Guardian confidence scoring and hard guardrails
+- [ML apply confidence](https://github.com/thedeutschmark/engineering-notes/tree/main/ml-apply-confidence) — Logistic regression from scratch in JS, 30-feature spec, Platt scaling, consent-gated training with k-anonymity
 
 ## Stack
 
