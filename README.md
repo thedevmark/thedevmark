@@ -8,7 +8,7 @@ App developer, streamer, photographer. Building tools that solve problems I ran 
 
 **[deutschmark.online](https://github.com/thedeutschmark/deutschmark.online)** — Portfolio site with a procedural 3D homepage (8 models built from Three.js primitives, zero imported assets), streaming overlays, and a Spotify widget system. Ships as a static export to Cloudflare Pages with Workers handling auth and API.
 
-**[Twitch Collab Planner](https://github.com/thedeutschmark/TwitchCollabOrganizer)** — Scheduling tool that pulls VOD history from the Twitch Helix API, detects past collaborations through [multi-signal confidence ranking](https://github.com/thedeutschmark/engineering-notes/tree/main/hybrid-collab-detection), and suggests optimal times based on streaming pattern analysis.
+**[Twitch Collab Planner](https://github.com/thedeutschmark/TwitchCollabOrganizer)** — Scheduling tool that pulls VOD history from the Twitch Helix API, detects past collaborations through [multi-signal confidence ranking](https://github.com/thedeutschmark/engineering-notes/tree/main/collab-detection), and suggests optimal times based on streaming pattern analysis.
 
 **[Alert! Alert!](https://github.com/thedeutschmark/alert-alert)** — Desktop app for stream alerts and VOD-to-shorts video editing. Python/Flask/FFmpeg with Whisper-based captioning and batch export.
 
@@ -18,11 +18,11 @@ App developer, streamer, photographer. Building tools that solve problems I ran 
 
 I document the harder problems in **[engineering-notes](https://github.com/thedeutschmark/engineering-notes)**:
 
-- [Building 3D objects for the web](https://github.com/thedeutschmark/engineering-notes/tree/main/unified-webgl-scene) — Procedural models, PS1 vertex shaders, the orientation bug that cost me hours, and unifying two renderers into one canvas
-- [Multi-signal collab detection](https://github.com/thedeutschmark/engineering-notes/tree/main/hybrid-collab-detection) — 4-tier confidence hierarchy for detecting Twitch collaborations from VOD titles, stream overlap, and event data
-- [How I built P.A.T.H.O.S.](https://github.com/thedeutschmark/engineering-notes/tree/main/resume-optimization) — Deterministic ATS scoring, voice-preserving AI rewriting, ghost job detection, and the AI arms race in hiring
-- [Inbound email sync](https://github.com/thedeutschmark/engineering-notes/tree/main/inbound-email-sync) — Auto-detecting recruiter responses from forwarded emails with Guardian confidence scoring and hard guardrails
-- [ML apply confidence](https://github.com/thedeutschmark/engineering-notes/tree/main/ml-apply-confidence) — Logistic regression from scratch in JS, 30-feature spec, Platt scaling, consent-gated training with k-anonymity
+- [3d on the web](https://github.com/thedeutschmark/engineering-notes/tree/main/3d-on-the-web) — Procedural models, PS1 vertex shaders, the orientation bug that cost me hours, and unifying two renderers into one canvas
+- [Collab detection](https://github.com/thedeutschmark/engineering-notes/tree/main/collab-detection) — 4-tier confidence hierarchy for detecting Twitch collaborations from VOD titles, stream overlap, and event data
+- [How I built P.A.T.H.O.S.](https://github.com/thedeutschmark/engineering-notes/tree/main/how-i-built-pathos) — Deterministic ATS scoring, voice-preserving AI rewriting, ghost job detection, and the AI arms race in hiring
+- [Email sync](https://github.com/thedeutschmark/engineering-notes/tree/main/email-sync) — Auto-detecting recruiter responses from forwarded emails with Guardian confidence scoring and hard guardrails
+- [ML prediction](https://github.com/thedeutschmark/engineering-notes/tree/main/ml-prediction) — Logistic regression from scratch in JS, 30-feature spec, Platt scaling, consent-gated training with k-anonymity
 
 ## Stack
 
