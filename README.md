@@ -8,13 +8,13 @@ App developer, streamer, photographer. Building tools that solve problems I ran 
 
 **[deutschmark.online](https://github.com/thedeutschmark/deutschmark.online)** — Portfolio site with a procedural 3D homepage (8 models built from Three.js primitives, zero imported assets), streaming overlays, and a Spotify widget system. Ships as a static export to Cloudflare Pages with Workers handling auth and API.
 
-**[Twitch Collab Planner](https://github.com/thedeutschmark/TwitchCollabOrganizer)** — Scheduling tool that pulls VOD history from the Twitch Helix API, detects past collaborations through [multi-signal confidence ranking](https://github.com/thedeutschmark/engineering-notes/tree/main/collab-detection), and suggests optimal times based on streaming pattern analysis.
+**[Twitch Collab Planner](https://github.com/thedeutschmark/TwitchCollabOrganizer)** — Scheduling tool that pulls VOD history from the Twitch Helix API, detects past collaborations through multi-signal confidence ranking, and suggests optimal times based on streaming pattern analysis.
 
 **[Alert! Alert!](https://github.com/thedeutschmark/alert-alert)** — Desktop app for stream alerts and VOD-to-shorts video editing. Python/Flask/FFmpeg with Whisper-based captioning and batch export.
 
 **[DM Toolkit](https://github.com/thedeutschmark/toolkit)** — Streaming dashboard with music controls, OBS overlays, clip playback, and widget configuration. Authenticates through a shared Twitch identity across subdomains.
 
-**[Chat Bot](https://github.com/thedeutschmark/persistence_bot)** — AI chat companion for Twitch with persistent memory. Compresses each stream session into a local summary so the bot remembers what happened last time. Runs in Streamer.bot with your own API key.
+**[Persistent Memory Chat Bot](https://github.com/thedeutschmark/persistence_bot)** — AI chat companion for Twitch with persistent memory. Compresses each stream session into a local summary so the bot remembers what happened last time. Captures streamer speech via STT for full-context memory. Runs in Streamer.bot with your own API key.
 
 ## Technical writing
 
@@ -29,7 +29,7 @@ I document the harder problems in **[engineering-notes](https://github.com/thede
 
 ## Stack
 
-TypeScript, React, Next.js, Python, Three.js, Supabase, Prisma, Cloudflare Workers/KV, Gemini, FFmpeg
+TypeScript, React, Next.js, Python, C#, Three.js, Supabase, Prisma, PostgreSQL, Cloudflare Workers/KV, Stripe, Gemini, FFmpeg, Whisper, Streamer.bot
 
 ## Links
 
