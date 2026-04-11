@@ -4,9 +4,9 @@ App developer, streamer, photographer. Building tools that solve problems I ran 
 
 ## What I'm working on
 
-**[P.A.T.H.O.S.](https://github.com/thedeutschmark/pathosapp)** — Resume optimizer that uses deterministic ATS scoring (not hallucinated LLM scores) and truth-constrained AI rewriting. Detects ghost jobs before you waste time applying. Syncs recruiter emails to auto-update your pipeline. Has a three-tier AI companion that ranges from professional to genuinely unhinged.
+**[P.A.T.H.O.S.](https://yourpathos.app)** — Resume optimizer that uses deterministic ATS scoring (not hallucinated LLM scores) and truth-constrained AI rewriting. Detects ghost jobs before you waste time applying. Syncs recruiter emails to auto-update your pipeline. Has a three-tier AI companion that ranges from professional to genuinely unhinged.
 
-**[deutschmark.online](https://github.com/thedeutschmark/deutschmark.online)** — Portfolio site with a procedural 3D homepage (8 models built from Three.js primitives, zero imported assets), streaming overlays, and a Spotify widget system. Ships as a static export to Cloudflare Pages with Workers handling auth and API.
+**[deutschmark.online](https://deutschmark.online)** — Portfolio site with a procedural 3D homepage (8 models built from Three.js primitives, zero imported assets), streaming overlays, and a Spotify widget system. Ships as a static export to Cloudflare Pages with Workers handling auth and API.
 
 **[Twitch Collab Planner](https://github.com/thedeutschmark/TwitchCollabOrganizer)** — Scheduling tool that pulls VOD history from the Twitch Helix API, detects past collaborations through multi-signal confidence ranking, and suggests optimal times based on streaming pattern analysis.
 
@@ -23,8 +23,9 @@ I document the harder problems in **[engineering-notes](https://github.com/thede
 - [3d on the web](https://github.com/thedeutschmark/engineering-notes/tree/main/3d-on-the-web) — Procedural models, PS1 vertex shaders, the orientation bug that cost me hours, and unifying two renderers into one canvas
 - [Collab detection](https://github.com/thedeutschmark/engineering-notes/tree/main/collab-detection) — 4-tier confidence hierarchy for detecting Twitch collaborations from VOD titles, stream overlap, and event data
 - [How I built P.A.T.H.O.S.](https://github.com/thedeutschmark/engineering-notes/tree/main/how-i-built-pathos) — Deterministic ATS scoring, voice-preserving AI rewriting, ghost job detection, and the AI arms race in hiring
-- [Email sync](https://github.com/thedeutschmark/engineering-notes/tree/main/email-sync) — Auto-detecting recruiter responses from forwarded emails with Guardian confidence scoring and hard guardrails
-- [ML prediction](https://github.com/thedeutschmark/engineering-notes/tree/main/ml-prediction) — Logistic regression from scratch in JS, 30-feature spec, Platt scaling, consent-gated training with k-anonymity
+- [Glass Box transparency](https://github.com/thedeutschmark/engineering-notes/tree/main/glass-box-transparency) — Three-layer transparency for persona state, resume optimization, and inbound job intel
+- [Email sync](https://github.com/thedeutschmark/engineering-notes/tree/main/email-sync) — Auto-detecting recruiter responses from forwarded emails with confidence-gated automation and one-click undo
+- [ML prediction](https://github.com/thedeutschmark/engineering-notes/tree/main/ml-prediction) — Logistic regression from scratch in JS, Platt scaling, time-aware evaluation, consent-gated training
 - [Chat bot memory](https://github.com/thedeutschmark/engineering-notes/tree/main/chat-bot-memory) — Persistent memory for a Twitch bot without storing chat logs — session compression, per-user lore, local-first storage
 
 ## Stack
