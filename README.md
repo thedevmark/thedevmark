@@ -1,4 +1,4 @@
-# Hi I'm deutschmark
+# Hi I'm Mark
 
 App developer, streamer, photographer. Building tools that solve problems I ran into and couldn't find good answers for.
 
