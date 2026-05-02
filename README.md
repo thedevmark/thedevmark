@@ -14,7 +14,7 @@ App developer, streamer, photographer. Building tools that solve problems I ran 
 
 **[DM Toolkit](https://github.com/thedeutschmark/toolkit)** — Streaming dashboard with music controls, OBS overlays, clip playback, and widget configuration. Authenticates through a shared Twitch identity across subdomains.
 
-**[Persistent Memory Chat Bot](https://github.com/thedeutschmark/persistence_bot)** — AI chat companion for Twitch with persistent memory. Compresses each stream session into a local summary so the bot remembers what happened last time. Captures streamer speech via STT for full-context memory. Runs in Streamer.bot with your own API key.
+**[ForgetMeNot](https://github.com/thedeutschmark/forgetmenot)** — Local-first Twitch chat bot that remembers community lore in a local SQLite database and replies via Gemini or OpenAI using your own API key. Ships as a single Windows executable — no shared backend, no chat data leaves your computer.
 
 ## Technical writing
 
