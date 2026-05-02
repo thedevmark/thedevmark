@@ -20,7 +20,6 @@ App developer, streamer, photographer. Building tools that solve problems I ran 
 
 I document the harder problems in **[engineering-notes](https://github.com/thedeutschmark/engineering-notes)**:
 
-- [3d on the web](https://github.com/thedeutschmark/engineering-notes/tree/main/3d-on-the-web) — Procedural models, PS1 vertex shaders, the orientation bug that cost me hours, and unifying two renderers into one canvas
 - [Collab detection](https://github.com/thedeutschmark/engineering-notes/tree/main/collab-detection) — 4-tier confidence hierarchy for detecting Twitch collaborations from VOD titles, stream overlap, and event data
 - [How I built P.A.T.H.O.S.](https://github.com/thedeutschmark/engineering-notes/tree/main/how-i-built-pathos) — Deterministic ATS scoring, voice-preserving AI rewriting, ghost job detection, and the AI arms race in hiring
 - [Glass Box transparency](https://github.com/thedeutschmark/engineering-notes/tree/main/glass-box-transparency) — Three-layer transparency for persona state, resume optimization, and inbound job intel
