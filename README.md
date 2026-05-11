@@ -6,7 +6,7 @@ App developer, streamer, photographer. Building tools that solve problems I ran 
 
 **[P.A.T.H.O.S.](https://yourpathos.app)** — Resume optimizer that uses deterministic ATS scoring (not hallucinated LLM scores) and truth-constrained AI rewriting. Detects ghost jobs before you waste time applying. Syncs recruiter emails to auto-update your pipeline. Has a three-tier AI companion that ranges from professional to genuinely unhinged.
 
-**[deutschmark.online](https://deutschmark.online)** — Portfolio site with a procedural 3D homepage (8 models built from Three.js primitives, zero imported assets), streaming overlays, and a Spotify widget system. Ships as a static export to Cloudflare Pages with Workers handling auth and API.
+**[deutschmark.online](https://deutschmark.online)** — Streaming overlays, a Spotify widget system, and the toolset control plane. Static export to Cloudflare Pages with Workers + KV + Durable Objects handling auth, real-time push, and per-user API.
 
 **[Twitch Collab Planner](https://github.com/thedeutschmark/collab-planner)** — Scheduling tool that pulls VOD history from the Twitch Helix API, detects past collaborations through multi-signal confidence ranking, and suggests optimal times based on streaming pattern analysis.
 
@@ -20,6 +20,7 @@ App developer, streamer, photographer. Building tools that solve problems I ran 
 
 I document the harder problems in **[engineering-notes](https://github.com/thedeutschmark/engineering-notes)**:
 
+- [Cloudflare KV cost-bounded architecture](https://github.com/thedeutschmark/engineering-notes/tree/main/cloudflare-kv-cost-bounded) — Diagnosing a 50% free-tier KV alarm from a single user, then re-architecting per-user streaming overlays from server-mediated polling to edge push with Durable Objects + Hibernatable WebSockets + EventSub — ~99.6% read reduction on the hot path
 - [Collab detection](https://github.com/thedeutschmark/engineering-notes/tree/main/collab-detection) — 4-tier confidence hierarchy for detecting Twitch collaborations from VOD titles, stream overlap, and event data
 - [How I built P.A.T.H.O.S.](https://github.com/thedeutschmark/engineering-notes/tree/main/how-i-built-pathos) — Deterministic ATS scoring, voice-preserving AI rewriting, ghost job detection, and the AI arms race in hiring
 - [Glass Box transparency](https://github.com/thedeutschmark/engineering-notes/tree/main/glass-box-transparency) — Three-layer transparency for persona state, resume optimization, and inbound job intel
@@ -29,7 +30,7 @@ I document the harder problems in **[engineering-notes](https://github.com/thede
 
 ## Stack
 
-TypeScript, React, Next.js, Python, C#, Three.js, Supabase, Prisma, PostgreSQL, Cloudflare Workers/KV, Stripe, Gemini, FFmpeg, Whisper, Streamer.bot
+TypeScript, React, Next.js, Python, C#, Supabase, Prisma, PostgreSQL, Cloudflare Workers/KV/Durable Objects, Stripe, Gemini, FFmpeg, Whisper, Streamer.bot
 
 ## Links
 
