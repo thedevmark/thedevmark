@@ -20,7 +20,7 @@ App developer, streamer, photographer. Building tools that solve problems I ran 
 
 I document the harder problems in **[engineering-notes](https://github.com/thedeutschmark/engineering-notes)**:
 
-- [Cloudflare KV cost-bounded architecture](https://github.com/thedeutschmark/engineering-notes/tree/main/cloudflare-kv-cost-bounded) — Diagnosing a 50% free-tier KV alarm from a single user, then re-architecting per-user streaming overlays from server-mediated polling to edge push with Durable Objects + Hibernatable WebSockets + EventSub — ~99.6% read reduction on the hot path
+- [Scaling streaming toolsets on Cloudflare](https://github.com/thedeutschmark/engineering-notes/tree/main/scaling-streaming-toolsets) — How to design a per-user multi-overlay platform on Cloudflare Workers + KV + Durable Objects so cost-per-user stays roughly flat as user count grows — edge push over server-mediated polling, Hibernatable WebSockets, Twitch EventSub. ~99.6% read reduction on the hot path.
 - [Collab detection](https://github.com/thedeutschmark/engineering-notes/tree/main/collab-detection) — 4-tier confidence hierarchy for detecting Twitch collaborations from VOD titles, stream overlap, and event data
 - [How I built P.A.T.H.O.S.](https://github.com/thedeutschmark/engineering-notes/tree/main/how-i-built-pathos) — Deterministic ATS scoring, voice-preserving AI rewriting, ghost job detection, and the AI arms race in hiring
 - [Glass Box transparency](https://github.com/thedeutschmark/engineering-notes/tree/main/glass-box-transparency) — Three-layer transparency for persona state, resume optimization, and inbound job intel
