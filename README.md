@@ -8,7 +8,7 @@ App developer, streamer, photographer. I build at the seam between AI products a
 
 **[Stream Toolset](https://github.com/thedeutschmark/toolset)** — Open-source pack of OBS browser-source overlays and companion apps for Twitch streamers with one login and no subscriptions, powering chat box, song requests, BRB scene, video shout-out, emote rain, death counter, subathon timer, and lurk peek through a Durable Object websocket fanout that hot-swaps config live to the browser source. Live at [toolset.deutschmark.online](https://toolset.deutschmark.online).
 
-**[ForgetMeNot](https://github.com/thedeutschmark/forgetmenot)** — Local-first Twitch chat bot with persistent memory. Remembers community lore in a local SQLite database; replies via Gemini or OpenAI using your own API key. Ships as a single Windows executable — no shared backend, no chat data leaves your computer.
+**[ForgetMeNot](https://github.com/thedeutschmark/forgetmenot)** — A Twitch chat bot that actually remembers your regulars. Names, inside jokes, the dumb thing someone said three weeks ago — it stores them on your machine and pulls them back stream after stream. Local SQLite for memory, your own Gemini or OpenAI key for replies, no shared backend, nothing leaves your computer.
 
 **[Twitch Collab Planner](https://github.com/thedeutschmark/collab-planner)** — Scheduling tool that pulls VOD history from the Twitch Helix API, detects past collaborations through multi-signal confidence ranking, and suggests optimal times based on streaming-pattern analysis. Live at [collab.deutschmark.online](https://collab.deutschmark.online).
 
