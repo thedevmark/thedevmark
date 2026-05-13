@@ -6,7 +6,7 @@ App developer, streamer, photographer. I build at the seam between AI products a
 
 **[P.A.T.H.O.S.](https://yourpathos.app)** — AI-driven SaaS career platform. Resume tailoring against job descriptions with *deterministic* ATS scoring (no hallucinated LLM scores), truth-constrained AI rewriting, ghost-job detection, recruiter-email auto-sync. Built solo: blank repo to 100+ monthly active users in the first month of public release.
 
-**[Stream Toolset](https://toolset.deutschmark.online)** ([repo](https://github.com/thedeutschmark/toolset)) — Open-source pack of OBS browser-source overlays and companion apps for Twitch streamers. One login, no subscriptions. Config hot-swaps live to the browser source over a Durable Object websocket fanout. Powers chat box, song requests, BRB scene, video shout-out, emote rain, death counter, subathon timer, lurk peek.
+**[Stream Toolset](https://github.com/thedeutschmark/toolset)** — Open-source pack of OBS browser-source overlays and companion apps for Twitch streamers with one login and no subscriptions, powering chat box, song requests, BRB scene, video shout-out, emote rain, death counter, subathon timer, and lurk peek through a Durable Object websocket fanout that hot-swaps config live to the browser source. Live at [toolset.deutschmark.online](https://toolset.deutschmark.online).
 
 **[ForgetMeNot](https://github.com/thedeutschmark/forgetmenot)** — Local-first Twitch chat bot with persistent memory. Remembers community lore in a local SQLite database; replies via Gemini or OpenAI using your own API key. Ships as a single Windows executable — no shared backend, no chat data leaves your computer.
 
@@ -28,7 +28,7 @@ Long-form notes on the harder problems behind these projects, in **[engineering-
 - **[ML prediction](https://github.com/thedeutschmark/engineering-notes/tree/main/ml-prediction)** — logistic regression from scratch in JS, Platt scaling, time-aware evaluation, consent-gated training.
 - **[Chat bot memory](https://github.com/thedeutschmark/engineering-notes/tree/main/chat-bot-memory)** — persistent memory for a Twitch bot without storing chat logs. Session compression, per-user lore, local-first storage.
 
-Practical streamer-facing guides live at [toolset.deutschmark.online/docs](https://toolset.deutschmark.online/docs) — covers EBU R128 loudness in the browser, balancing audio in OBS, Twitch IRC vs EventSub, hot-swap overlay config with Durable Objects, and the streamer-side tutorials for each tool.
+Streaming and want the actual how-to stuff? [toolset.deutschmark.online/docs](https://toolset.deutschmark.online/docs) walks through the things that trip people up — keeping stream loudness sane (EBU R128) so chat doesn't get ear-blasted, balancing audio across OBS scenes and sources, when to use Twitch IRC vs EventSub, hot-swapping overlay config live with Durable Objects, and a tutorial for every tool in the kit.
 
 ## Stack
 
