@@ -28,7 +28,7 @@ Long-form notes on the harder problems behind these projects, in **[engineering-
 - **[ML prediction](https://github.com/thedeutschmark/engineering-notes/tree/main/ml-prediction)** — logistic regression from scratch in JS, Platt scaling, time-aware evaluation, consent-gated training.
 - **[Chat bot memory](https://github.com/thedeutschmark/engineering-notes/tree/main/chat-bot-memory)** — persistent memory for a Twitch bot without storing chat logs. Session compression, per-user lore, local-first storage.
 
-Streaming and want the actual how-to stuff? [toolset.deutschmark.online/docs](https://toolset.deutschmark.online/docs) walks through the things that trip people up — keeping stream loudness sane (EBU R128) so chat doesn't get ear-blasted, balancing audio across OBS scenes and sources, when to use Twitch IRC vs EventSub, hot-swapping overlay config live with Durable Objects, and a tutorial for every tool in the kit.
+[toolset.deutschmark.online/docs](https://toolset.deutschmark.online/docs) — keeping your stream loudness sane so chat doesn't get ear-blasted, balancing OBS audio across scenes and sources, when to use Twitch IRC vs EventSub, hot-swapping overlay config live with Durable Objects, and a tutorial for every tool in the kit.
 
 ## Stack
 
