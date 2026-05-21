@@ -2,19 +2,23 @@
 
 App developer, streamer, photographer. I build at the seam between AI products and live-video infrastructure — the engineering notes below explain the trade-offs behind each project. For recruiting / employment context, see [dev.deutschmark.online](https://dev.deutschmark.online).
 
-## What I'm working on
+## Stream tools
 
-**[P.A.T.H.O.S.](https://yourpathos.app)** — AI-driven SaaS career platform. Resume tailoring against job descriptions with *deterministic* ATS scoring (no hallucinated LLM scores), truth-constrained AI rewriting, ghost-job detection, recruiter-email auto-sync. Built solo: blank repo to 100+ monthly active users in the first month of public release.
+Tools for livestreamers — they work together: pull a clip, cut it, run your overlays, remember your chat, plan collabs.
 
-**[Stream Toolset](https://github.com/thedeutschmark/toolset)** — Open-source pack of OBS browser-source overlays and companion apps for Twitch streamers with one login and no subscriptions, powering chat box, song requests, BRB scene, video shout-out, emote rain, death counter, subathon timer, and lurk peek through a Durable Object websocket fanout that hot-swaps config live to the browser source. Live at [toolset.deutschmark.online](https://toolset.deutschmark.online).
+| | Tool | What it is |
+|---|------|------------|
+| <img src="assets/icons/alert-alert.svg" width="44"> | **[Alert! Alert!](https://github.com/thedeutschmark/alert-alert)** | Make clean stream-alert clips from any video source. |
+| <img src="assets/icons/clipline.svg" width="44"> | **[Clipline](https://github.com/thedeutschmark/clipline)** | Turn livestream VODs into shortform clips with auto-captions. |
+| <img src="assets/icons/toolset.svg" width="44"> | **[The Stream Toolset](https://toolset.deutschmark.online)** | OBS overlays + companion apps. One login, no subscriptions. |
+| <img src="assets/icons/forgetmenot.png" width="44"> | **[ForgetMeNot](https://github.com/thedeutschmark/forgetmenot)** | A Twitch chat bot that remembers your regulars. |
+| <img src="assets/icons/collab.svg" width="44"> | **[Collab Planner](https://collab.deutschmark.online)** | Auto-detect collab windows from streamers' broadcast history. |
 
-**[ForgetMeNot](https://github.com/thedeutschmark/forgetmenot)** — A Twitch chat bot that actually remembers your regulars. Names, inside jokes, the dumb thing someone said three weeks ago — it stores them on your machine and pulls them back stream after stream. Local SQLite for memory, your own Gemini or OpenAI key for replies, no shared backend, nothing leaves your computer.
+## Career
 
-**[Twitch Collab Planner](https://github.com/thedeutschmark/collab-planner)** — Scheduling tool that pulls VOD history from the Twitch Helix API, detects past collaborations through multi-signal confidence ranking, and suggests optimal times based on streaming-pattern analysis. Live at [collab.deutschmark.online](https://collab.deutschmark.online).
-
-**[Alert! Alert!](https://github.com/thedeutschmark/alert-alert)** — Desktop app for creating stream-alert assets from video. Loads remote URLs from YouTube / Instagram / TikTok (or a local file), trims, crops, zooms, applies aspect-ratio presets, separates and normalizes audio, and exports the result ready to drop into OBS. Python + Flask + PySide6 + FFmpeg + yt-dlp.
-
-**[Clipline](https://github.com/thedeutschmark/clipline)** — Desktop app that turns livestream VOD moments into shortform clips. Pulls Twitch VODs, in-stream markers, and clip metadata; batch-renders with preset crops; transcribes captions via faster-whisper (optional speaker diarization via pyannote); stitches sequences for longform. Exports burn-in captions or sidecar ASS/SRT.
+| | Tool | What it is |
+|---|------|------------|
+| <img src="assets/icons/pathos.svg" width="44"> | **[P.A.T.H.O.S.](https://yourpathos.app)** | AI career platform — resume tailoring, ATS scoring, gamified missions. |
 
 ## Technical writing
 
