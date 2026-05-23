@@ -11,7 +11,7 @@ Tools for livestreamers — they work together: pull a clip, cut it, run your ov
 | <img src="assets/icons/alert-alert.svg" width="44"> | **[Alert! Alert!](https://github.com/thedeutschmark/alert-alert)** | Make clean stream-alert clips from any video source. |
 | <img src="assets/icons/clipline.svg" width="44"> | **[Clipline](https://github.com/thedeutschmark/clipline)** | Turn livestream VODs into shortform clips with auto-captions. |
 | <img src="assets/icons/toolset.svg" width="44"> | **[The Stream Toolset](https://toolset.deutschmark.online)** | OBS overlays + companion apps. One login, no subscriptions. |
-| <img src="assets/icons/forgetmenot.png" width="44"> | **[ForgetMeNot](https://github.com/thedeutschmark/forgetmenot)** | A Twitch chat bot that remembers your regulars. |
+| <img src="assets/icons/forgetmenot.png" width="32"> | **[ForgetMeNot](https://github.com/thedeutschmark/forgetmenot)** | A Twitch chat bot that remembers your regulars. |
 | <img src="assets/icons/collab.svg" width="44"> | **[Collab Planner](https://collab.deutschmark.online)** | Auto-detect collab windows from streamers' broadcast history. |
 
 ## Career
