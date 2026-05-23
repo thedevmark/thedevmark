@@ -7,7 +7,7 @@ App developer, streamer, photographer. Over a decade of experience. I build at t
 Tools for livestreamers — they work together: pull a clip, cut it, run your overlays, remember your chat, plan collabs.
 
 | | Tool | What it is |
-|---|------|------------|
+|:---:|------|------------|
 | <img src="assets/icons/alert-alert.svg" width="44"> | **[Alert! Alert!](https://github.com/thedeutschmark/alert-alert)** | Make clean stream-alert clips from any video source. |
 | <img src="assets/icons/clipline.svg" width="44"> | **[Clipline](https://github.com/thedeutschmark/clipline)** | Turn livestream VODs into shortform clips with auto-captions. |
 | <img src="assets/icons/toolset.svg" width="44"> | **[The Stream Toolset](https://toolset.deutschmark.online)** | OBS overlays + companion apps. One login, no subscriptions. |
@@ -17,7 +17,7 @@ Tools for livestreamers — they work together: pull a clip, cut it, run your ov
 ## Career
 
 | | Tool | What it is |
-|---|------|------------|
+|:---:|------|------------|
 | <img src="assets/icons/pathos.svg" width="44"> | **[P.A.T.H.O.S.](https://yourpathos.app)** | AI career platform — resume tailoring, ATS scoring, gamified missions. |
 
 ## Technical writing
