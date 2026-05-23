@@ -1,6 +1,6 @@
 # Hi, I'm Mark
 
-App developer, streamer, photographer. I build at the seam between AI products and live-video infrastructure — the engineering notes below explain the trade-offs behind each project. For recruiting / employment context, see [dev.deutschmark.online](https://dev.deutschmark.online).
+App developer, streamer, photographer. Over a decade of experience. I build at the seam between AI products and live-video infrastructure — the engineering notes below explain the trade-offs behind each project. For recruiting / employment context, see [dev.deutschmark.online](https://dev.deutschmark.online).
 
 ## Stream tools
 
