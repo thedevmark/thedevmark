@@ -2,18 +2,9 @@
 
 App developer, streamer, photographer. Over a decade of experience. I build at the seam between AI products and live-video infrastructure — the engineering notes below explain the trade-offs behind each project. For recruiting / employment context, see [dev.deutschmark.online](https://dev.deutschmark.online).
 
-## Stream tools
-
-Tools for livestreamers — they work together: pull a clip, cut it, run your overlays, remember your chat, plan collabs.
-
-## Career
-
 | | Tool | What it is |
 |:---:|------|------------|
 | <img src="assets/icons/pathos.svg" width="44"> | **[P.A.T.H.O.S.](https://yourpathos.app)** | Optimizes your resume per role and automatically tracks it all |
-
-| | Creator Tools | What it is |
-|:---:|------|------------|
 | <img src="assets/icons/alert-alert.svg" width="44"> | **[Alert! Alert!](https://github.com/thedeutschmark/alert-alert)** | Make clean stream-alert clips from any video source. |
 | <img src="assets/icons/clipline.svg" width="44"> | **[Clipline](https://github.com/thedeutschmark/clipline)** | Turn livestream VODs into shortform clips with auto-captions. |
 | <img src="assets/icons/toolset.svg" width="44"> | **[The Stream Toolset](https://toolset.deutschmark.online)** | OBS overlays + companion apps. One login, no subscriptions. |
