@@ -17,13 +17,21 @@ App developer, streamer, photographer. Over a decade of experience. I build at t
 
 Some notes on the harder problems I ran into over the years, in **[engineering-notes](https://github.com/thedeutschmark/engineering-notes)**:
 
-- **[Scaling streaming toolsets on Cloudflare](https://github.com/thedeutschmark/engineering-notes/tree/main/scaling-streaming-toolsets)** — designing a per-user multi-overlay platform on Workers + KV + Durable Objects so cost-per-user stays roughly flat as user count grows. Edge push over server-mediated polling, hibernatable WebSockets, Twitch EventSub. ~99.6% read reduction on the hot path.
-- **[Collab detection](https://github.com/thedeutschmark/engineering-notes/tree/main/collab-detection)** — 4-tier confidence hierarchy for detecting Twitch collaborations from VOD titles, stream overlap, and event data.
-- **[How I built P.A.T.H.O.S.](https://github.com/thedeutschmark/engineering-notes/tree/main/how-i-built-pathos)** — deterministic ATS scoring, voice-preserving AI rewriting, ghost-job detection, and the AI arms race in hiring.
-- **[Glass Box transparency](https://github.com/thedeutschmark/engineering-notes/tree/main/glass-box-transparency)** — three-layer transparency for persona state, resume optimization, and inbound job intel.
-- **[Email sync](https://github.com/thedeutschmark/engineering-notes/tree/main/email-sync)** — auto-detecting recruiter responses from forwarded emails with confidence-gated automation and one-click undo.
-- **[ML prediction](https://github.com/thedeutschmark/engineering-notes/tree/main/ml-prediction)** — logistic regression from scratch in JS, Platt scaling, time-aware evaluation, consent-gated training.
-- **[Chat bot memory](https://github.com/thedeutschmark/engineering-notes/tree/main/chat-bot-memory)** — persistent memory for a Twitch bot without storing chat logs. Session compression, per-user lore, local-first storage.
+
+
+| [Scaling streaming toolsets on Cloudflare](scaling-streaming-toolsets/) | Designing a per-user multi-overlay platform so cost-per-user stays roughly flat as you grow — edge push, Hibernatable WebSockets, EventSub | Cloudflare Workers, KV, Durable Objects, Hibernatable WebSockets, EventSub |
+
+| [Chat bot memory](chat-bot-memory/) | Persistent memory for a Twitch chat bot without storing raw chat logs | C#, Streamer.bot, Gemini Flash |
+
+| [Collab detection](collab-detection/) | Confidence-ranked collab detection for Twitch from several imperfect signals | Twitch Helix API, Prisma, PostgreSQL |
+
+| [How I built P.A.T.H.O.S.](how-i-built-pathos/) | Building a job-search system around deterministic scoring, constrained AI, and pipeline intelligence | React 19, Supabase, Gemini |
+
+| [Glass Box transparency](glass-box-transparency/) | Glass Box transparency for persona state, optimizer stages, and inbound job intelligence | React 19, Supabase, Gemini |
+
+| [Email sync](email-sync/) | Deterministic-first inbound email sync for job-search pipelines with review and undo | Supabase Edge Functions, TypeScript, LLM Fallback |
+
+| [ML prediction](ml-prediction/) | Adding a learned prediction layer without replacing the deterministic scoring engine | JavaScript, Supabase, PostgreSQL |
 
 [toolset.deutschmark.online/docs](https://toolset.deutschmark.online/docs) — keeping your stream loudness sane so chat doesn't get ear-blasted, balancing OBS audio across scenes and sources, when to use Twitch IRC vs EventSub, hot-swapping overlay config live with Durable Objects, and a tutorial for every tool in the kit.
 
