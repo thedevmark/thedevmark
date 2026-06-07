@@ -6,7 +6,13 @@ App developer, streamer, photographer. Over a decade of experience. I build at t
 
 Tools for livestreamers — they work together: pull a clip, cut it, run your overlays, remember your chat, plan collabs.
 
+## Career
+
 | | Tool | What it is |
+|:---:|------|------------|
+| <img src="assets/icons/pathos.svg" width="44"> | **[P.A.T.H.O.S.](https://yourpathos.app)** | Optimizes your resume per role and automatically tracks it all |
+
+| | Creator Tools | What it is |
 |:---:|------|------------|
 | <img src="assets/icons/alert-alert.svg" width="44"> | **[Alert! Alert!](https://github.com/thedeutschmark/alert-alert)** | Make clean stream-alert clips from any video source. |
 | <img src="assets/icons/clipline.svg" width="44"> | **[Clipline](https://github.com/thedeutschmark/clipline)** | Turn livestream VODs into shortform clips with auto-captions. |
@@ -14,15 +20,11 @@ Tools for livestreamers — they work together: pull a clip, cut it, run your ov
 | <img src="assets/icons/forgetmenot.png" width="32"> | **[ForgetMeNot](https://github.com/thedeutschmark/forgetmenot)** | A Twitch chat bot that remembers your regulars. |
 | <img src="assets/icons/collab.svg" width="44"> | **[Collab Planner](https://collab.deutschmark.online)** | Auto-detect collab windows from streamers' broadcast history. |
 
-## Career
 
-| | Tool | What it is |
-|:---:|------|------------|
-| <img src="assets/icons/pathos.svg" width="44"> | **[P.A.T.H.O.S.](https://yourpathos.app)** | AI career platform — resume tailoring, ATS scoring, gamified missions. |
 
-## Technical writing
+## Technical Papers
 
-Long-form notes on the harder problems behind these projects, in **[engineering-notes](https://github.com/thedeutschmark/engineering-notes)**:
+Some notes on the harder problems I ran into over the years, in **[engineering-notes](https://github.com/thedeutschmark/engineering-notes)**:
 
 - **[Scaling streaming toolsets on Cloudflare](https://github.com/thedeutschmark/engineering-notes/tree/main/scaling-streaming-toolsets)** — designing a per-user multi-overlay platform on Workers + KV + Durable Objects so cost-per-user stays roughly flat as user count grows. Edge push over server-mediated polling, hibernatable WebSockets, Twitch EventSub. ~99.6% read reduction on the hot path.
 - **[Collab detection](https://github.com/thedeutschmark/engineering-notes/tree/main/collab-detection)** — 4-tier confidence hierarchy for detecting Twitch collaborations from VOD titles, stream overlap, and event data.
@@ -38,7 +40,7 @@ Long-form notes on the harder problems behind these projects, in **[engineering-
 
 TypeScript · React · Zustand · Next.js · Python · C# · Supabase · Prisma · Postgres · Cloudflare Workers · KV · Durable Objects · Stripe · Gemini · OpenAI · FFmpeg · faster-whisper · pyannote · Twitch IRC + EventSub + Helix · Spotify Web API · Streamer.bot
 
-## Surfaces
+## Links
 
 - **[deutschmark.online](https://deutschmark.online)** — marketing root, 3D carousel
 - **[toolset.deutschmark.online](https://toolset.deutschmark.online)** — overlays + companion apps + docs
