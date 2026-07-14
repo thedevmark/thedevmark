@@ -40,6 +40,6 @@ TypeScript · React · Zustand · Next.js · Python · C# · Supabase · Prisma 
 - **[deutschmark.online](https://deutschmark.online)** — marketing root, 3D carousel
 - **[toolset.deutschmark.online](https://toolset.deutschmark.online)** — overlays + companion apps + docs
 - **[collab.deutschmark.online](https://collab.deutschmark.online)** — stream collab scheduler
-- **[yourpathos.app](https://yourpathos.app)** — P.A.T.H.O.S.
+- **[yourpathos.app](https://yourpathos.app)** — Personalized Application Tracking & Hiring Optimization System
 - **[dev.deutschmark.online](https://dev.deutschmark.online)** — recruiter-facing portfolio
 - **[twitch.tv/thedeutschmark](https://twitch.tv/thedeutschmark)** · **[Discord](https://discord.com/invite/hQEQE9myXX)**
