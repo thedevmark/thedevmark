@@ -5,10 +5,10 @@ App developer, streamer, photographer. Over a decade of experience. I build at t
 | | Tool | What it is |
 |:---:|------|------------|
 | <img src="assets/icons/pathos.svg" width="44"> | **[P.A.T.H.O.S.](https://yourpathos.app)** | Optimizes your resume per role and automatically tracks it all |
-| <img src="assets/icons/alert-alert.svg" width="44"> | **[Alert! Alert!](https://github.com/thedeutschmark/alert-alert)** | Make clean stream-alert clips from any video source. |
-| <img src="assets/icons/clipline.svg" width="44"> | **[Clipline](https://github.com/thedeutschmark/clipline)** | Turn livestream VODs into shortform clips with auto-captions. |
+| <img src="assets/icons/alert-alert.svg" width="44"> | **[Alert! Alert!](https://github.com/thedevmark/alert-alert)** | Make clean stream-alert clips from any video source. |
+| <img src="assets/icons/clipline.svg" width="44"> | **[Clipline](https://github.com/thedevmark/clipline)** | Turn livestream VODs into shortform clips with auto-captions. |
 | <img src="assets/icons/toolset.svg" width="44"> | **[The Stream Toolset](https://toolset.deutschmark.online)** | OBS overlays + companion apps. One login, no subscriptions. |
-| <img src="assets/icons/forgetmenot.png" width="32"> | **[ForgetMeNot](https://github.com/thedeutschmark/forgetmenot)** | A Twitch chat bot that remembers your regulars. |
+| <img src="assets/icons/forgetmenot.png" width="32"> | **[ForgetMeNot](https://github.com/thedevmark/forgetmenot)** | A Twitch chat bot that remembers your regulars. |
 | <img src="assets/icons/collab.svg" width="44"> | **[Collab Planner](https://collab.deutschmark.online)** | Auto-detect collab windows from streamers' broadcast history. |
 | <img src="assets/icons/film-lab.svg" width="44"> | **[Film Lab](https://github.com/thedevmark/film-lab)** | Put a real film look on digital photos — measured Kodak Gold, grain, halation. |
 
@@ -16,7 +16,7 @@ App developer, streamer, photographer. Over a decade of experience. I build at t
 
 ## Technical Papers
 
-Some notes on the harder problems I ran into over the years, in **[engineering-notes](https://github.com/thedeutschmark/engineering-notes)**:
+Some notes on the harder problems I ran into over the years, in **[engineering-notes](https://github.com/thedevmark/engineering-notes)**:
 
 
 
