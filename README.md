@@ -10,6 +10,7 @@ App developer, streamer, photographer. Over a decade of experience. I build at t
 | <img src="assets/icons/toolset.svg" width="44"> | **[The Stream Toolset](https://toolset.deutschmark.online)** | OBS overlays + companion apps. One login, no subscriptions. |
 | <img src="assets/icons/forgetmenot.png" width="32"> | **[ForgetMeNot](https://github.com/thedeutschmark/forgetmenot)** | A Twitch chat bot that remembers your regulars. |
 | <img src="assets/icons/collab.svg" width="44"> | **[Collab Planner](https://collab.deutschmark.online)** | Auto-detect collab windows from streamers' broadcast history. |
+| <img src="assets/icons/film-lab.svg" width="44"> | **[Film Lab](https://github.com/thedevmark/film-lab)** | Put a real film look on digital photos — measured Kodak Gold, grain, halation. |
 
 
 
