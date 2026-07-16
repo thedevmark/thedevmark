@@ -22,6 +22,7 @@ Some notes on the harder problems I ran into over the years, in **[engineering-n
 
 | Paper | Description | Tech |
 |---|---|---|
+| [RLS silently disabled my GIN index](https://github.com/thedevmark/engineering-notes/tree/main/rls-fts-planner) | A public text search that 500'd for anonymous users only. Row security will not push a non-LEAKPROOF operator below its barrier, `@@` is not one, so the GIN index was refused and every anon search became a 10s seq scan over 87k rows | PostgreSQL 17, RLS, GIN, tsvector, Supabase |
 | [Scaling streaming toolsets on Cloudflare](https://github.com/thedevmark/engineering-notes/tree/main/scaling-streaming-toolsets) | Designing a per-user multi-overlay platform so cost-per-user stays roughly flat as you grow — edge push, Hibernatable WebSockets, EventSub | Cloudflare Workers, KV, Durable Objects, Hibernatable WebSockets, EventSub |
 | [Chat bot memory](https://github.com/thedevmark/engineering-notes/tree/main/chat-bot-memory) | Persistent memory for a Twitch chat bot without storing raw chat logs | C#, Streamer.bot, Gemini Flash |
 | [Collab detection](https://github.com/thedevmark/engineering-notes/tree/main/collab-detection) | Confidence-ranked collab detection for Twitch from several imperfect signals | Twitch Helix API, Prisma, PostgreSQL |
