@@ -6,7 +6,7 @@ App developer, streamer, photographer. Over a decade of experience. I build at t
 |:---:|------|------------|
 | <img src="assets/icons/pathos.svg" width="44"> | **[Pathos](https://yourpathos.app)** | Worker-side job search: find roles, tailor from real experience, and track applications in one place. |
 | <img src="assets/icons/markskill.svg" width="44" alt="Markskill"> | **[Markskill](https://github.com/thedevmark/markskill)** | An agent-agnostic skill for choosing what to change, what to keep, and how to verify it. |
-| <img src="assets/icons/alert-alert.svg" width="44"> | **[Alert! Alert!](https://github.com/thedevmark/alert-alert)** | Make clean stream-alert clips from any video source. |
+| <img src="assets/icons/alert-alert.svg" width="39"> | **[Alert! Alert!](https://github.com/thedevmark/alert-alert)** | Make clean stream-alert clips from any video source. |
 | <img src="assets/icons/clipline.svg" width="44"> | **[Clipline](https://github.com/thedevmark/clipline)** | Turn livestream VODs into shortform clips with auto-captions. |
 | <img src="assets/icons/toolset.svg" width="44"> | **[The Stream Toolset](https://toolset.deutschmark.online)** | OBS overlays + companion apps. One login, no subscriptions. |
 | <img src="assets/icons/forgetmenot.png" width="32"> | **[ForgetMeNot](https://github.com/thedevmark/forgetmenot)** | A Twitch chat bot that remembers your regulars. |
