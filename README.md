@@ -5,7 +5,7 @@ App developer, streamer, photographer. Over a decade of experience. I build at t
 | | Tool | What it is |
 |:---:|------|------------|
 | <img src="assets/icons/pathos.svg" width="44"> | **[Pathos](https://yourpathos.app)** | Worker-side job search: find roles, tailor from real experience, and track applications in one place. |
-| <img src="https://raw.githubusercontent.com/thedevmark/markskill/main/docs/assets/markskill-logo-v15.png" width="88" alt="Markskill"> | **[Markskill](https://github.com/thedevmark/markskill)** | Evidence-led judgment for coding agents across code, product design, and verification. |
+| <img src="assets/icons/markskill.svg" width="44" alt="Markskill"> | **[Markskill](https://github.com/thedevmark/markskill)** | A Codex skill for choosing what to change, what to keep, and how to verify it. |
 | <img src="assets/icons/alert-alert.svg" width="44"> | **[Alert! Alert!](https://github.com/thedevmark/alert-alert)** | Make clean stream-alert clips from any video source. |
 | <img src="assets/icons/clipline.svg" width="44"> | **[Clipline](https://github.com/thedevmark/clipline)** | Turn livestream VODs into shortform clips with auto-captions. |
 | <img src="assets/icons/toolset.svg" width="44"> | **[The Stream Toolset](https://toolset.deutschmark.online)** | OBS overlays + companion apps. One login, no subscriptions. |
