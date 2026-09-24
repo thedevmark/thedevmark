@@ -10,7 +10,7 @@ App developer, streamer, photographer. Over a decade of experience. I build at t
 | <img src="assets/icons/clipline.svg" width="44"> | **[Clipline](https://github.com/thedevmark/clipline)** | Turn livestream VODs into shortform clips with auto-captions. |
 | <img src="assets/icons/toolset.svg" width="44"> | **[The Stream Toolset](https://toolset.deutschmark.online)** | OBS overlays + companion apps. One login, no subscriptions. |
 | <img src="assets/icons/forgetmenot.png" width="32"> | **[ForgetMeNot](https://github.com/thedevmark/forgetmenot)** | A Twitch chat bot that remembers your regulars. |
-| <img src="assets/icons/film-lab.svg" width="44"> | **[Film Lab](https://github.com/thedevmark/film-lab)** | Put a real film look on digital photos — measured Kodak Gold, grain, halation. |
+| <img src="assets/icons/film-lab.svg" width="39"> | **[Film Lab](https://github.com/thedevmark/film-lab)** | Put a real film look on digital photos — measured Kodak Gold, grain, halation. |
 
 ## Pathos Chrome extension
 
