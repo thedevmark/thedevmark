@@ -9,11 +9,9 @@ App developer, streamer, and photographer with over a decade of experience. I bu
 | <img src="assets/icons/pathos.svg" width="44" alt=""> | **[Pathos](https://yourpathos.app)** | Worker-side job search with source-linked roles, evidence-checked resumes, and application tracking. |
 | <img src="assets/icons/markskill.svg" width="44" alt=""> | **[Markskill](https://github.com/thedevmark/markskill)** | A product-engineering skill for AI agents: trace behavior to its owner, fix root causes, shape interfaces around real tasks, and verify claims with evidence. |
 | <img src="assets/icons/alert-alert.svg" width="39" alt=""> | **[Alert! Alert!](https://github.com/thedevmark/alert-alert)** | Turn a video URL or local file into a cropped, trimmed stream alert. |
-| <img src="assets/icons/clipline.svg" width="44" alt=""> | **[Clipline](https://github.com/thedevmark/clipline)** | Turn Twitch VOD moments into captioned vertical clips and compilations. |
 | <img src="assets/icons/video-drop.svg" width="44" alt=""> | **[Video Drop](https://github.com/thedevmark/video-drop)** | Local-first workspace for finished clips, reviewed copy, and iPhone-native posting through SideTap. In development. |
 | <img src="assets/icons/toolset.svg" width="44" alt=""> | **[The Stream Toolset](https://toolset.deutschmark.online)** | Build OBS scenes and browser-source overlays with connected streamer tools. |
 | <img src="assets/icons/forgetmenot.png" width="32" alt=""> | **[ForgetMeNot](https://github.com/thedevmark/forgetmenot)** | A local-first Twitch bot that remembers regulars, callbacks, and stream lore. |
-| <img src="assets/icons/film-lab.svg" width="39" alt=""> | **[Film Lab](https://github.com/thedevmark/film-lab)** | Film emulation for JPEG and RAW photos, including a measured Kodak Gold 200 preset, grain, and halation. |
 
 ## Pathos Chrome extension
 
