@@ -9,7 +9,7 @@ App developer, streamer, and photographer with over a decade of experience. I bu
 | <img src="assets/icons/pathos.svg" width="44" alt=""> | **[Pathos](https://yourpathos.app)** | Worker-side job search with source-linked roles, evidence-checked resumes, and application tracking. |
 | <img src="assets/icons/markskill.svg" width="44" alt=""> | **[Markskill](https://github.com/thedevmark/markskill)** | A product-engineering skill for AI agents: trace behavior to its owner, fix root causes, shape interfaces around real tasks, and verify claims with evidence. |
 | <img src="assets/icons/alert-alert.svg" width="39" alt=""> | **[Alert! Alert!](https://github.com/thedevmark/alert-alert)** | Turn a video URL or local file into a cropped, trimmed stream alert. |
-| <img src="assets/icons/video-drop.svg" width="44" alt=""> | **[Video Drop](https://github.com/thedevmark/video-drop)** | Local-first workspace for finished clips, reviewed copy, and iPhone-native posting through SideTap. In development. |
+| <img src="assets/icons/video-drop.svg" width="44" alt=""> | **[Automated iPhone Social Media Uploads](https://github.com/thedevmark/automated-iphone-social-media-uploads)** | Local-first workspace for finished clips, reviewed copy, and iPhone-native posting through SideTap. In development. |
 | <img src="assets/icons/streamer-online.svg" width="44" alt=""> | **[Streamer Online](https://streamer.deutschmark.online)** | Build OBS scenes and browser-source overlays with connected streamer tools. |
 | <img src="assets/icons/forgetmenot.png" width="32" alt=""> | **[ForgetMeNot](https://github.com/thedevmark/forgetmenot)** | A local-first Twitch bot that remembers regulars, callbacks, and stream lore. |
 
