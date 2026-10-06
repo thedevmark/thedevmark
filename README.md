@@ -24,7 +24,7 @@ Selected write-ups from **[engineering-notes](https://github.com/thedevmark/engi
 | Paper | Description | Tech |
 |---|---|---|
 | [4K60 Native Ingest](https://github.com/thedevmark/engineering-notes/tree/main/4k60-native-ingest) | What I found across 40+ short-form video tests of codecs, bitrates, resolutions, a Chrome extension, and native iPhone uploads. | iPhone, video encoding, short-form platforms |
-| [Scaling streaming toolsets on Cloudflare](https://github.com/thedevmark/engineering-notes/tree/main/scaling-streaming-toolsets) | An event-driven overlay architecture using WebSockets for live state and KV for cold persistence. | Cloudflare Workers, KV, Durable Objects, Hibernatable WebSockets, EventSub |
+| [Scaling Streamer Online on Cloudflare](https://github.com/thedevmark/engineering-notes/tree/main/scaling-streamer-online) | An event-driven overlay architecture using WebSockets for live state and KV for cold persistence. | Cloudflare Workers, KV, Durable Objects, Hibernatable WebSockets, EventSub |
 | [Chat bot memory](https://github.com/thedevmark/engineering-notes/tree/main/chat-bot-memory) | Local memory for chatters and running jokes without retaining raw chat logs. | SQLite, Gemini, Twitch |
 | [Building Pathos](https://github.com/thedevmark/engineering-notes/tree/main/how-i-built-pathos) | How role discovery, resume safeguards, application tracking, and a review-first extension fit together. | React 19, Vite, Supabase, Cloudflare Workers, Chrome MV3 |
 
