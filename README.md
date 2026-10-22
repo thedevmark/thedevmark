@@ -1,6 +1,6 @@
 # Hi, I'm Mark
 
-App developer, streamer, and photographer with over a decade of experience. I build job-search software, streaming tools, and creative applications.
+App developer, streamer, and photographer with over a decade of experience. I build games, streaming tools, job-search software, and creative applications.
 
 ## Projects
 
@@ -18,17 +18,6 @@ App developer, streamer, and photographer with over a decade of experience. I bu
 
 The [Pathos Chrome extension](https://chromewebstore.google.com/detail/ecniiinpnbhcjicagdhipdogcajohdip) fills supported application fields, attaches a reviewed resume for the role, and drafts answers grounded in the candidate's information. It leaves uncertain and sensitive fields for review and lets the candidate submit the application.
 
-## Engineering notes
-
-Selected write-ups from **[engineering-notes](https://github.com/thedevmark/engineering-notes)**:
-
-| Paper | Description | Tech |
-|---|---|---|
-| [4K60 Native Ingest](https://github.com/thedevmark/engineering-notes/tree/main/4k60-native-ingest) | What I found across 40+ short-form video tests of codecs, bitrates, resolutions, a Chrome extension, and native iPhone uploads. | iPhone, video encoding, short-form platforms |
-| [Scaling Streamer Online on Cloudflare](https://github.com/thedevmark/engineering-notes/tree/main/scaling-streamer-online) | An event-driven overlay architecture using WebSockets for live state and KV for cold persistence. | Cloudflare Workers, KV, Durable Objects, Hibernatable WebSockets, EventSub |
-| [Chat bot memory](https://github.com/thedevmark/engineering-notes/tree/main/chat-bot-memory) | Local memory for chatters and running jokes without retaining raw chat logs. | SQLite, Gemini, Twitch |
-| [Building Pathos](https://github.com/thedevmark/engineering-notes/tree/main/how-i-built-pathos) | How role discovery, resume safeguards, application tracking, and a review-first extension fit together. | React 19, Vite, Supabase, Cloudflare Workers, Chrome MV3 |
-
 ## Stack
 
 - **Applications:** TypeScript, JavaScript, React, Vite, Zustand, Chrome Manifest V3
@@ -37,4 +26,4 @@ Selected write-ups from **[engineering-notes](https://github.com/thedevmark/engi
 
 ## Links
 
-[Website](https://deutschmark.online) · [Portfolio](https://dev.deutschmark.online) · [Twitch](https://twitch.tv/thedeutschmark) · [Discord](https://discord.com/invite/hQEQE9myXX)
+[Website](https://deutschmark.online) · [Portfolio](https://dev.deutschmark.online) · [Build notes](https://github.com/thedevmark/engineering-notes) · [Twitch](https://twitch.tv/thedeutschmark) · [Discord](https://discord.com/invite/hQEQE9myXX)
