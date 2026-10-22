@@ -1,6 +1,8 @@
 # Hi, I'm Mark
 
-App developer, streamer, and photographer with over a decade of experience. I build games, streaming tools, job-search software, and creative applications.
+**AI Implementation & GTM Specialist**
+
+I build games, streaming tools, job-search software, and creative applications. Streamer, photographer, and bilingual in English and German.
 
 ## Projects
 
