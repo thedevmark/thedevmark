@@ -1,8 +1,8 @@
 # Hi, I'm Mark
 
-**AI Implementation & GTM Specialist**
+**Product Engineer & AI Implementation Specialist**
 
-I build games, streaming tools, job-search software, and creative applications. Streamer, photographer, and bilingual in English and German.
+I build games, streaming tools, job-search software, and creative applications. My background is in sales technology, enablement, and adoption. Bilingual in English and German; streamer and photographer.
 
 ## Projects
 
