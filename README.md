@@ -5,6 +5,7 @@ App developer, streamer, and photographer with over a decade of experience. I bu
 ## Projects
 
 <table>
+<tr><td align="center" width="56"><img src="https://deutschmark.online/brand/icons/pixel/meteor-defense-32.png" width="44" alt=""></td><td><a href="https://meteor.deutschmark.online"><b>Chat vs. Meteors</b></a><br>A game your viewers play by typing. Match the words on falling meteors to fire turrets and defend the planet together.</td></tr>
 <tr><td align="center" width="56"><img src="assets/icons/pathos.svg" width="44" alt=""></td><td><a href="https://yourpathos.app"><b>Pathos</b></a><br>Worker-side job search with source-linked roles, evidence-checked resumes, and application tracking.</td></tr>
 <tr><td align="center" width="56"><img src="assets/icons/markskill.svg" width="44" alt=""></td><td><a href="https://github.com/thedevmark/markskill"><b>Markskill</b></a><br>A product-engineering skill for AI agents: trace behavior to its owner, fix root causes, shape interfaces around real tasks, and verify claims with evidence.</td></tr>
 <tr><td align="center" width="56"><img src="assets/icons/alert-alert.svg" width="39" alt=""></td><td><a href="https://github.com/thedevmark/alert-alert"><b>Alert! Alert!</b></a><br>Turn a video URL or local file into a cropped, trimmed stream alert.</td></tr>
